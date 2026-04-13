@@ -24,6 +24,6 @@ I am a passionate data enthusiast focused on building intelligent systems and ex
 - LinkedIn:www.linkedin.com/in/rahma-chelabi
 
 - Languages: Arabic (Native) | English (C1/Fluent) | French (Fluent) | Learning Italian & German.
-- 
+
 ---
 *"The goal is to turn data into information, and information into insight."*
