@@ -3,7 +3,6 @@ Hi there, I'm Rahma Chelabi 👋
 💻 Computer Engineering & AI Student @ Xiamen University Malaysia
 I am a passionate data enthusiast focused on building intelligent systems and extracting insights from complex datasets. My engineering background drives my precision-oriented approach to software development and data analysis.
 
-
 🚀 Tech Stack & Tools
 - Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - Data Science: ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -23,6 +22,6 @@ I am a passionate data enthusiast focused on building intelligent systems and ex
 - LinkedIn:www.linkedin.com/in/rahma-chelabi
 
 - Languages: Arabic (Native) | English (C1/Fluent) | French (Fluent) | Learning Italian & German.
-
+- 
 ---
 *"The goal is to turn data into information, and information into insight."*
